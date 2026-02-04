@@ -1,5 +1,4 @@
 # Perplexity
-Human writing and machine patterns: analyzing a decade of convergence
 
 This notebook contains the code used for the analysis presented in the paper:
 
