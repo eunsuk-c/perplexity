@@ -11,7 +11,7 @@ The data used in this project is located in the `data` folder, which contains ov
 Documents were retrieved from six time periods—2014, 2016, 2018, 2020, 2022, and 2024—providing a decade-long window to observe content variability trends. For frequently revised documents such as Wikipedia pages, I captured content as it appeared at specific publication dates.
 
 
-| Data source    | Year | Date of publication in each year (MM/DD) | Number of documents | Number of tokens | Average # tokens per document | Average # tokens per sentence |
+| Data source    | Year | Date of publication (MM/DD) | Number of documents | Number of tokens | Average # tokens per document | Average # tokens per sentence |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | PubMed         | 2014 | 6/15, 12/15                              | 6715                | 1278807          | 190.44                        | 21.94                         |
 |                | 2016 | 6/15, 12/15                              | 8905                | 1802933          | 202.46                        | 21.92                         |
