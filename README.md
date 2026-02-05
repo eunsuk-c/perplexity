@@ -4,7 +4,7 @@ This repo contains the Python code and data for the analysis of time-series tren
 
 The data used in this project is located in the `data` folder, which contains over 111K documents extracted from PubMed, Wikipedia, and Stack Exchange published in the 2014-2024 period.
 
-Documents were retrieved from six time periods—2014, 2016, 2018, 2020, 2022, and 2024—providing a decade-long window to observe content variability trends. For frequently revised documents such as Wikipedia pages, I captured content as it appeared at specific publication dates.
+Documents were retrieved from six time periods—2014, 2016, 2018, 2020, 2022, and 2024—providing a decade-long window to observe content variability trends. For frequently revised documents such as Wikipedia pages, I captured content *as it appeared* at specific publication dates.
 
 
 | Data source    | Year | Date of publication (MM/DD) | # documents | # tokens | Average # tokens per document | Average # tokens per sentence |
