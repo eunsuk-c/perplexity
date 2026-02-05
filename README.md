@@ -1,6 +1,6 @@
 # Perplexity
 
-This notebook contains the code used for the analysis of time-series trends in the predictability of human writings.
+This notebook contains the code used for the analysis of time-series trends in the predictability of human writings using perplexity and Binoculars measures.
 
 The data used in this project is located in the `data` folder, which contains over 111K documents extracted from PubMed, Wikipedia, and Stack Exchange published in the 2014-2024 period.
 
