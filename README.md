@@ -1,10 +1,6 @@
 # Perplexity
 
-This notebook contains the code used for the analysis presented in the paper:
-
-**"Human writing and machine patterns: analyzing a decade of convergence"** by Eunsuk Chang
-
-*Published in: Scientometrics*
+This notebook contains the code used for the analysis of time-series trends in the predictability of human writings.
 
 The data used in this project is located in the `data` folder, which contains over 111K documents extracted from PubMed, Wikipedia, and Stack Exchange published in the 2014-2024 period.
 
