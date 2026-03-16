@@ -27,3 +27,6 @@ Documents were retrieved from six time periods—2014, 2016, 2018, 2020, 2022, a
 |                | 2020 | 6/1, 6/15, 6/30, 12/1, 12/15, 12/30      | 5767                | 1264329          | 219.24                        | 23.37                         |
 |                | 2022 | 6/1, 6/15, 6/30, 12/1, 12/15, 12/30      | 4480                | 1039479          | 232.03                        | 24.81                         |
 |                | 2024 | 6/1, 6/15, 6/30, 12/1, 12/15, 12/30      | 3364                | 1166535          | 346.77                        | 28.12                         |
+
+**Citation**
+Chang E. (2026). Human writing and machine patterns: analyzing a decade of convergence. *Scientometrics* 10.1007/s11192-026-05589-y 
